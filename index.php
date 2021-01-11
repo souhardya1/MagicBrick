@@ -1,5 +1,5 @@
 <?php
 
-include_once("app.py")
+include_once("index.html")
 
 ?>
